@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 break the code.
+=======
+I am going to da something.
+>>>>>>> dev_conf2
